@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-imuldw",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Compute the double word product of two signed 32-bit integers.",
   "license": "Apache-2.0",
   "author": {
