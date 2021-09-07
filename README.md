@@ -100,6 +100,23 @@ for ( i = 0x7FFFFFF0; i < 0x7FFFFFFF; i++ ) {
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/math/base/special/imul`][@stdlib/math/base/special/imul]: perform C-like multiplication of two signed 32-bit integers.
+-   [`@stdlib/math/base/special/uimuldw`][@stdlib/math/base/special/uimuldw]: compute the double word product of two unsigned 32-bit integers.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -156,6 +173,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-imuldw/main/LICENSE
 
 [@stdlib/constants/float64/max-safe-integer]: https://github.com/stdlib-js/constants-float64-max-safe-integer
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/special/imul]: https://github.com/stdlib-js/math-base-special-imul
+
+[@stdlib/math/base/special/uimuldw]: https://github.com/stdlib-js/math-base-special-uimuldw
+
+<!-- </related-links> -->
 
 </section>
 
