@@ -1,3 +1,11 @@
+## Attention
+
+:warning: **This package has been renamed. Use [@stdlib/math-base-ops-imuldw](https://github.com/stdlib-js/math-base-ops-imuldw) instead.** :warning:
+
+<br>
+
+* * *
+
 <!--
 
 @license Apache-2.0
